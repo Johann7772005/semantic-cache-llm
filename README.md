@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Semantic Caching Layer for LLM APIs
 
 A drop-in caching proxy that sits in front of LLM API calls, detects when two
