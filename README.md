@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Semantic Caching Layer for LLM APIs
 
 A drop-in caching proxy that sits in front of LLM API calls, detects when two
@@ -123,3 +124,7 @@ semantic-cache/
 - Adaptive per-task-type similarity thresholds instead of one global value
 - Near-miss logging in production traffic to tune the threshold with real data instead of synthetic pairwise comparison
 - Streaming response support for cache misses
+=======
+# semantic-cache-llm
+Semantic caching proxy for LLM APIs using FastAPI, sentence-transformers, FAISS, and SQLite to reduce redundant model calls, latency, and API costs.
+>>>>>>> d0b47f3908f795266adbdcea49453dd5cd46f638
